@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Full Stack Web Dev | Nodejs, MongoDB, Angular, HTML, CSS, Javascript
+
 <!--
 **iagoccampos/iagoccampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
