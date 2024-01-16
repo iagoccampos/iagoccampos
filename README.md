@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Full Stack Web Dev | Nodejs, MongoDB, Angular, HTML, CSS, Javascript
+Full Stack Web Dev | Nodejs | MongoDB | Angular | Typescript
 
 ### Languages and Tools that I use:
 
